@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Fionn Ross> -- <Catalogue Raisonné Scholar & Technologist> -- <abandoned Twitter long before Musk bought it>
+
+# THANKS
+
+    <Jazeb Akram, Udemy instructor, for his project-based course on PHP and MySQL>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, PHP 7.4, MySQL, Bootstrap 3.4.1
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
